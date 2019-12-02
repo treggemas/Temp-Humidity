@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Samz WeBpAgE</title>
+</head>
+
+<h1>Baby_Goat_Sweaters.inc</h1>
+
+<body>
+    <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/904619/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"></iframe>
+
+    <table>
+        <tr>
+
+            <td>
+                <a href="./index.html">Home</a>
+            </td>
+
+            <td>
+                <a href="./about.html">About</a>
+            </td>
+
+            <td>
+                <a href="./news.html">News</a>
+            </td>
+
+            <td>
+                <a href="./contact.html">Contact</a>
+              
+            </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <img src=".\goat sweater.jpg">
+                    <p>
+                        Click to see Josh's pet duck and dog (won't regret)
+                    </p>
+                </td>
+            
+            </tr>
+
+    </table>
+
+
+
+</body>
+
+</html>
